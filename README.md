@@ -11,3 +11,8 @@ I work on embodied AI and computer vision, with a focus on how agents acquire an
 - Active vision and task-driven visual perception
 - Spatial reasoning and 3D scene understanding
 - Embodied agents and adaptive decision-making
+
+## Contact
+
+- Email: [26b951190@stu.hit.edu.cn](mailto:26b951190@stu.hit.edu.cn)
+- GitHub: [llishuguo](https://github.com/llishuguo)
